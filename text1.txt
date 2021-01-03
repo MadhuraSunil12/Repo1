@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F48D-65C8
+
+ Directory of C:\Users\madhu\OneDrive\Desktop\GitProject
+
+2021-01-03  01:36 PM    <DIR>          .
+2021-01-03  01:36 PM    <DIR>          ..
+2021-01-03  01:36 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  209,786,368,000 bytes free
